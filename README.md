@@ -12,3 +12,6 @@ Feel life’s ups and downs to make the Matrix cooler—your wins stack in the s
 
 ## Join the Journey
 Share your experiences and enrich the Matrix with us! #CosmicMatrixeory
+
+🌀 This project is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
