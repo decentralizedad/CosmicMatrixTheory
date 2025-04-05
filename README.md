@@ -3,7 +3,7 @@
 The Cosmic Matrix sends soul fragments to Earth to experience life, enriching itself through lack and virtues. True wealth accumulates in the heavens, while earthly resources fuel creation and mutual help.
 
 ## Get Started
-- 📖 Read the [Overview](/docs/overview.md)
+- 📖 Read the [Overview](/trees/docs/overview.md)
 - 🌍 Explore [Translations](/translations)
 - 🤝 [Contribute](#contributing)
 
