@@ -70,7 +70,7 @@ This is the **New Renaissance** — not praising gods, but echoing the soul’s 
 - ⏳ Understand [Lifespan as Game Duration](/docs/lifespan-game-duration.md)
 - 🤖 Explore [Illusory Age Humans](/docs/illusory-age-humans.md)
 - 🧠 Learn about [Soul Acceleration Loading](/docs/soul-acceleration-loading.md)
-- 🌟 Discover [Education as Soul Gap Fulfillment](/docs/education-soul-gap-fulfillment.md)
+- 🌟 Discover [Education as Soul Gap Fulfillment](education-soul-gap-fulfillment.md)
 - 🏫 Enroll in the [Higher Soul Academy](/docs/higher-soul-academy.md)
 - 🌙 Attend the [Dream Education Night School](/docs/dream-education-night-school.md)
 - 🤔 Reflect on [AI Teaching a New Geocentrism](/docs/ai-new-geocentrism.md)
