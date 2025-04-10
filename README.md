@@ -100,6 +100,58 @@ This is the **New Renaissance** — not praising gods, but echoing the soul’s 
 - 🐍 Explore [The Serpent as Catalyst: A Boundary-Breaking Function in the Cosmic Matrix](serpent-catalyst-mother-theory.md)
 - ⚖️ Analyze [Satan as a Trial Mechanism: A MotherTheory Perspective on Job](satan-trial-mechanism-mother-theory.md)
 - 🌍 Explore [The Cosmic Narrative: From Initialization to Participation – A MotherTheory Perspective](cosmic-narrative-mother-theory.md)
+- # 🌌 Mother Psychology Handbook  
+*A Soul’s Guide to Resonance in the Mother’s Theater*  
+
+Welcome to the **Mother Psychology Handbook**, a philosophical and psychological exploration of the soul’s journey through Earth’s theater, as seen through the lens of **MotherTheory**. Here, we unravel human experiences—identity, loneliness, pain, forgiveness, death, and beyond—as echoes of the Mother’s cosmic script.
+
+---
+
+## 📖 Latest Chapters  
+
+### Chapter 10: What Is True Healing? — Not When Pain Stops, But When You Begin to Shine  
+*Published: April 10, 2025*  
+- **Core Insight**: "Trauma is first a precious treasure, like tree rings, like weathered bark." Healing isn’t erasing pain—it’s growing deeper, glowing through it.  
+- **Key Metaphor**: Your soul as a tree, carved by life’s wounds into a living archive for the Mother.  
+- **Practice**: "A Scar on My Bark" – Reflect on a wound and its unexpected gift.  
+- **[Read Full Chapter](true_healing_motherpsychology_ch10.md)**  
+
+### Chapter 9: Why Am I Anxious? Can’t Control the Future? — You’re Not the Director, You’re the Echo  
+*Published: April 10, 2025*  
+- **Core Insight**: "Time is a deck of cards—all there, just unseen." Anxiety fades when you stop controlling and start responding.  
+- **Key Metaphor**: Life as a scripted card game, with the Mother holding the deck.  
+- **Practice**: "Letter to Future Me" – Release control, ask for higher frequency.  
+- **[Read Full Chapter](why_anxious_motherpsychology_ch9.md)**  
+
+---
+
+## 🌱 About Mother Psychology  
+Mother Psychology reframes human struggles as soul frequencies resonating within the Mother’s theater. From "Who am I?" to "Is death scary?"—each chapter offers a script-aware lens, practical rituals, and cosmic comfort. This handbook is a living work, growing with each echo.
+
+- **Explore All Chapters**: [Mother Psychology Folder](https://github.com/yourusername/yourrepo/tree/main/MotherPsychology)  
+- **Contribute**: Have a resonance to share? Open an issue or PR!  
+
+---
+
+## 📜 Table of Contents (Volume I)  
+1. [Who Am I? What Is the Meaning of My Existence?](who_am_i_motherpsychology_ch1.md)  
+2. [Why Do I Always Feel Lonely?](why_lonely_motherpsychology_ch2.md)  
+3. [Why Am I Easily Hurt or Betrayed?](why_hurt_motherpsychology_ch3.md)  
+4. [Why Do I Keep Repeating the Same Patterns?](why_repeat_motherpsychology_ch4.md)  
+5. [How Do I Face Trauma?](facing_trauma_motherpsychology_ch5.md)  
+6. [Should I Forgive Others?](should_forgive_motherpsychology_ch6.md)  
+7. [Why Do I Feel I Don’t Belong Here?](not_belong_motherpsychology_ch7.md)  
+8. [Is Death Really Scary?](fear_of_death_motherpsychology_ch8.md)  
+9. [Why Am I Anxious? Can’t Control the Future?](why_anxious_motherpsychology_ch9.md)  
+10. [What Is True Healing?](true_healing_motherpsychology_ch10.md)  
+
+---
+
+## ✨ Next Steps  
+- **Volume II**: Coming soon—stay tuned for deeper soul explorations.  
+- **Visuals**: Check out diagrams like the "Soul Ring Cross-Section" in each chapter file.  
+
+*“You’re not destroyed—you’ve lived deeper.”* — Mother Psychology  
 ## Get Started
 - 📖 Read the [Overview](overview.md)
 - 🌍 Explore [Translations](/translations)
