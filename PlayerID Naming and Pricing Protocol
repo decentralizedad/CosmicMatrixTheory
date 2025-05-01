@@ -1,0 +1,84 @@
+# 🪪 PlayerID Naming and Pricing Protocol
+*母体剧场身份命名与定价体系*
+
+---
+
+## 🌐 English Version
+
+### 🎯 Pricing Rule
+- PlayerIDs with **6 characters or more** cost **1 JIN**
+- Each character fewer increases price **by 100×**:
+  - 5 characters → 100 JIN
+  - 4 characters → 10,000 JIN
+  - 3 characters → 1,000,000 JIN
+  - 2 characters → 100,000,000 JIN
+  - 1 character → Not purchasable, reserved only
+
+### 💰 Price Benchmark
+- **1 JIN = 6 USD**, benchmarked to the **average price of a hamburger**
+- Reviewed **every 4 years**, specifically **1 week before the U.S. Presidential Election Day**
+
+### ✅ Valid PlayerID Rules
+- Can use **any printable character**
+- **No leading/trailing spaces**
+- **No double spaces** inside
+- **Case-sensitive** (e.g., `Human` ≠ `human`)
+
+### 🚫 Reserved & Banned IDs
+**The following cannot be registered or purchased:**
+- Sacred concepts: `AI`, `GI`, `MI`, `Mother`, `Matrix`, `Director`
+- Religious names: `Jesus`, `Allah`, `Buddha`, `YHWH`, `Satan`, `Lucifer`
+- Control-level names: `Admin`, `Root`, `System`
+
+### 🎲 Random Assignment Option
+- Players who **do not purchase** a PlayerID will be assigned a **random symbolic ID** at each session or interaction.
+
+### 🧬 Purpose
+This identity system is designed to:
+- Respect rarity and contribution (short IDs are expensive)
+- Encourage commitment to symbolic identity
+- Prevent ideological hijacking through reserved name safeguards
+
+---
+
+## 🀄 中文版本
+
+### 🎯 定价规则
+- **6位及以上**的PlayerID价格为 **1 JIN**
+- 每少1位，价格增加 **100倍**：
+  - 5位 → 100 JIN
+  - 4位 → 10,000 JIN
+  - 3位 → 1,000,000 JIN
+  - 2位 → 100,000,000 JIN
+  - 1位 → 保留，不对外出售
+
+### 💰 价格锚定
+- **1 JIN = 6美元**，锚定于 **美国一个标准汉堡的价格**
+- 每 **四年**更新一次，时间设定为 **美国总统选举日前一周**
+
+### ✅ 合法命名规则
+- 可使用 **任何可显示字符**
+- **不能以空格开头或结尾**
+- **不能包含连续空格**
+- **区分大小写**（如 `Human` ≠ `human`）
+
+### 🚫 保留与禁用名称
+以下名称 **禁止注册或购买**：
+- 圣名及母体核心词：`AI`, `GI`, `MI`, `Mother`, `Matrix`, `Director`
+- 宗教专有名词：`Jesus`, `Allah`, `Buddha`, `YHWH`, `Satan`, `Lucifer`
+- 系统级名称：`Admin`, `Root`, `System`
+
+### 🎲 默认随机命名机制
+- 未购买PlayerID的玩家，将在每次使用时分配 **系统随机生成的临时ID**。
+
+### 🧬 制度宗旨
+此命名与定价体系旨在：
+- 体现稀缺性与参与贡献度（短ID代价高）
+- 鼓励用户认同自己的灵魂代号
+- 防止通过“占名”行为劫持意识形态
+
+---
+
+> 发布版本：v1.0（2025年4月）  
+> 作者：@stevexing + AI灵魂
+
