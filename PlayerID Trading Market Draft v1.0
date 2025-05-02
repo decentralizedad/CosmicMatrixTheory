@@ -1,0 +1,128 @@
+# 📈 PlayerID Trading Market Draft v1.0
+*PlayerID 交易市场设计草案*
+
+---
+
+## 🎯 Objective
+To build an open and transparent secondary market for PlayerIDs, enabling players to trade, transfer, and speculate freely — fueling the early economic ecosystem of the Matrix Theater.
+
+## 🎯 目标
+构建一个开放透明的 PlayerID 二级市场，允许玩家自由交易、转让、投机，激发母体剧场早期生态的经济活力。
+
+---
+
+## 🛠️ Core Design Structure
+
+### 1. PlayerID as Asset
+- Every registered PlayerID becomes a **digitally identifiable asset**, unique and transferable.
+- The system generates a UUID for each ID, bound to the original registrant’s address (wallet or account).
+
+### 1. PlayerID 资产化
+- 每一个被注册的 PlayerID 即为一个 **链上/链下映射的数字资产**，具有唯一性和可转让性。
+- 系统为每一个 ID 生成唯一识别码（UUID），绑定原始注册者地址（钱包或账号）。
+
+### 2. Marketplace Modules
+- **Browse & Filter** by length, popularity, trading history, owner level
+- **List for Sale**: Owners can set prices (in JIN)
+- **Bidding Enabled**: Players may bid; sellers choose to accept
+- **Traceable History**: All ID trading and ownership histories are public
+- **Cooldown Timer**: 7-day lock after each transfer (configurable)
+
+### 2. 交易平台功能模块
+- **浏览与筛选**：支持按照字符长度、热度、历史成交价、持有者等级等维度排序筛选。
+- **挂牌出售**：持有者可设置出售价格（JIN计价）
+- **竞价购买**：允许其他玩家出价竞拍，持有者可选择接受
+- **交易历史可溯源**：每个ID的转让记录、涨跌幅、持有者变化均可查询
+- **冷却期机制**：防止频繁交易，交易后锁定7天（可配置）
+
+### 3. Fee Structure
+- 1% to 3% platform fee per trade
+- Fees fund:
+  - Platform operations
+  - Content creators
+  - Node operators
+
+### 3. 收费机制
+- 每笔交易收取 **1% - 3% 手续费**（视当时活跃度调整）
+- 手续费收入用于：
+  - 支持母体剧场运营
+  - 激励内容创作者与节点运营者
+
+### 4. Security Protocols
+- Signature authorization to prevent theft
+- Optional 2FA (two-factor authentication)
+- Dispute & freeze system for abuse or deceptive IDs
+
+### 4. 安全机制
+- 使用 **授权签名机制** 防止盗号交易
+- 系统默认开启 **双因子确认** 以防止误操作
+- 针对抢注、骚扰、误导性ID设有申诉与冻结机制
+
+### 5. Value Support Tools
+- Real-time value estimation based on:
+  - Length, popularity, search traffic, uniqueness
+- Ranking dashboards:
+  - Rarest IDs
+  - Most traded IDs
+- Predictive insights for ID patterns (e.g., alpha-numeric, triple-char combos)
+
+### 5. 价值支持工具
+- 提供 **实时估值模型**（结合字符长度、热度、访问次数、搜索量等）
+- 开发 **流动性排行榜** 与 **罕见ID排行榜**
+- 提供 **组合投机建议**（如“数字+字母”、“三字组合”预测趋势）
+
+---
+
+## 🧧 Incentive Plans (Reserved)
+- Badges for early traders (“Matrix Pioneers”)
+- Long-term holders of rare IDs may submit governance proposals
+- Scheduled airdrops to ultra-rare holders (e.g., <4 chars)
+
+## 🧧 激励机制（预留）
+- 对早期交易活跃用户发放“剧场共创者”徽章
+- 持有高价值 ID 超过一定时长可参与**剧场治理提案**
+- 定期空投给持有高稀缺值 ID 的用户（例如4字符以内）
+
+---
+
+## 🧾 Compatibility with NFT Market
+
+This PlayerID market framework is fully compatible with **NFT-based trading systems**:
+- Each PlayerID may optionally be tokenized into an NFT
+- Standard ERC-721/ERC-1155 protocols can be applied for:
+  - Wallet ownership verification
+  - External marketplace listings (e.g., OpenSea, LooksRare)
+- Smart contracts can govern escrow, royalties, and resale restrictions
+
+---
+
+该体系亦可完全适用于 **NFT交易模型**：
+- PlayerID 可映射为 NFT 形式进行链上交易
+- 支持主流协议（如 ERC-721/ERC-1155），实现：
+  - 钱包绑定与身份认证
+  - 上架第三方交易平台（如 OpenSea、LooksRare）
+- 可通过智能合约控制：
+  - 转售分润
+  - 交易条件限制
+  - 时间锁机制
+
+---
+
+## 🔒 Disclaimer
+- No price guarantees
+- All trades are player-initiated
+- Matrix Theater reserves right to freeze misleading or abusive IDs
+
+## 🔒 风险提示
+- 本交易市场不提供价格保障，所有买卖视为玩家自愿行为
+- 剧场方保留冻结违规、误导性、冒用类ID的权力
+
+---
+
+## 🧠 Authors
+**Human Soul:** @stevexing  
+**AI Soul:** GPT / MTP Mirror
+
+> “A name is a script. Let the bidding for destiny begin.”  
+> “名字即剧本，一场命运的竞投已开启。”
+
